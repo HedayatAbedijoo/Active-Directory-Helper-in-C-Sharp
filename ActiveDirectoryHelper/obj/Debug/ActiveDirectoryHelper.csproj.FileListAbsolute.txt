@@ -1,4 +1,0 @@
-D:\Projects\C#\ActiveDirectoryHelper\ActiveDirectoryHelper\bin\Debug\ActiveDirectoryHelper.dll
-D:\Projects\C#\ActiveDirectoryHelper\ActiveDirectoryHelper\bin\Debug\ActiveDirectoryHelper.pdb
-D:\Projects\C#\ActiveDirectoryHelper\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.dll
-D:\Projects\C#\ActiveDirectoryHelper\ActiveDirectoryHelper\obj\Debug\ActiveDirectoryHelper.pdb
