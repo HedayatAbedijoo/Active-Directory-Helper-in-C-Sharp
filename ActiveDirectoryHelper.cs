@@ -13,6 +13,8 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Web.Hosting;
 
+
+/// Extra Comment
 /// <summary>
 /// Using this class you can inquiry the user's detail from AD, Check a user current status from AD and also Change the password of users.
 /// </summary>
